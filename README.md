@@ -1,2 +1,2 @@
 # myStudyNote
-Record the my note for learning java~~~~
+Record my note for learning java~~~~
